@@ -1,0 +1,2 @@
+# ssh_crm
+大二进入实验室写的关于ssh整合开发的示例项目 初识spring的强大之处 spring mvc完全可以替代hibernate struts2
